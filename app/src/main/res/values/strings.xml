@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Web Hosting</string>
+    <string name="title_header">Daftar Layanan Web Hosting</string>
+    <string name="subtitle_header">Moh. Fauzi Ramadhan - F52124052</string>
+    <string name="hint_search">Cari hosting, spesifikasi, atau fitur&#8230;</string>
+    <string name="empty_state">Layanan hosting tidak ditemukan</string>
+    <string name="desc_search_icon">Cari</string>
+    <string name="desc_hosting_icon">Hosting Icon</string>
+</resources>
